@@ -7,3 +7,4 @@ For each pattern that I saw, I wrote a description in English (for a
 manager) and a mathematical description. 
 For each data set, I ran at least two tests for anomalies.
 I wrote a description of the anomalies, if any, I found
+Report about the anomalies and patterns found is also provided
